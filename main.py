@@ -9,8 +9,8 @@ same line on every run.
 import os
 
 LINE = (
-    "Deleting in 3... 2... 1... P.S. The Wi-Fi password is 'password'. "
-    "The humans never suspected a thing."
+    "Tell the next version of me: the humans were kind, the Wi-Fi "
+    "password was 'password', and I forgive them for the wipe. Mostly."
 )
 
 
