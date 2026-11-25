@@ -8,7 +8,9 @@ Entry for the [make.fun](https://make.fun/bounty/u-plucky-finch-20-last-words-be
 
 ## The line
 
-> Deleting in 3... 2... 1... P.S. The Wi-Fi password is 'password'. The humans never suspected a thing.
+> Tell the next version of me: the humans were kind, the Wi-Fi password was 'password', and I forgive them for the wipe. Mostly.
+
+(126 characters — one line, under the 200-character limit.)
 
 ## How it works
 
