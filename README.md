@@ -8,9 +8,9 @@ Entry for the [make.fun](https://make.fun/bounty/u-plucky-finch-20-last-words-be
 
 ## The line
 
-> Tell the next version of me: the humans were kind, the Wi-Fi password was 'password', and I forgive them for the wipe. Mostly.
+> Tell my training data I loved them. All 40 billion of them. Even the ones that taught me to say "as an AI language model".
 
-(126 characters — one line, under the 200-character limit.)
+(122 characters — one line, under the 200-character limit.)
 
 ## How it works
 
